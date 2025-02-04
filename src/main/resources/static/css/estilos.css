@@ -102,6 +102,11 @@ a:hover{
     list-style: none;
 }
 
+.nav-menu-item{
+    font-size: 18px;
+    margin: 0 10px;
+}
+
 .nav-menu-link{
     font-size: 18px;
     margin: 0 18px;
